@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<android.arch.persistence.room>
+  <compiler versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <support-db-impl versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <runtime versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <support-db versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <migration versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <rxjava2 versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <testing versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+  <common versions="1.0.0-alpha1,1.0.0-alpha2,1.0.0-alpha3,1.0.0-alpha4,1.0.0-alpha5,1.0.0-alpha6,1.0.0-alpha7,1.0.0-alpha8,1.0.0-alpha9"/>
+</android.arch.persistence.room>

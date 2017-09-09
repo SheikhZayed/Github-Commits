@@ -1,0 +1,1 @@
+com.loktra.interviewapp.test

@@ -1,0 +1,3 @@
+# Referenced at C:\Users\Ashif\Desktop\InterviewApp\app\build\intermediates\manifests\full\release\AndroidManifest.xml:21
+-keep class com.loktra.interviewapp.conf.SampleApp { <init>(...); }
+

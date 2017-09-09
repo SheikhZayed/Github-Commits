@@ -1,0 +1,147 @@
+[
+  {
+    "sha": "c8d25e6bfe52bbe7a955aae03618c79d340e7abb",
+    "commit": {
+      "author": {
+        "name": "Ryuta Kamizono",
+        "email": "kamipo@gmail.com",
+        "date": "2017-09-09T03:54:22Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2017-09-09T03:54:22Z"
+      },
+      "message": "Merge pull request #30552 from y-yagi/remove_needless_silence_warnings\n\nRemove needless `silence_warnings`",
+      "tree": {
+        "sha": "39db02abdd29fd28c23e8f9f98b7b89363771445",
+        "url": "https://api.github.com/repos/rails/rails/git/trees/39db02abdd29fd28c23e8f9f98b7b89363771445"
+      },
+      "url": "https://api.github.com/repos/rails/rails/git/commits/c8d25e6bfe52bbe7a955aae03618c79d340e7abb",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/rails/rails/commits/c8d25e6bfe52bbe7a955aae03618c79d340e7abb",
+    "html_url": "https://github.com/rails/rails/commit/c8d25e6bfe52bbe7a955aae03618c79d340e7abb",
+    "comments_url": "https://api.github.com/repos/rails/rails/commits/c8d25e6bfe52bbe7a955aae03618c79d340e7abb/comments",
+    "author": {
+      "login": "kamipo",
+      "id": 12642,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12642?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kamipo",
+      "html_url": "https://github.com/kamipo",
+      "followers_url": "https://api.github.com/users/kamipo/followers",
+      "following_url": "https://api.github.com/users/kamipo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kamipo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kamipo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kamipo/subscriptions",
+      "organizations_url": "https://api.github.com/users/kamipo/orgs",
+      "repos_url": "https://api.github.com/users/kamipo/repos",
+      "events_url": "https://api.github.com/users/kamipo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kamipo/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e533ee758c7d3cef00da08034d8b8949b0ac493a",
+        "url": "https://api.github.com/repos/rails/rails/commits/e533ee758c7d3cef00da08034d8b8949b0ac493a",
+        "html_url": "https://github.com/rails/rails/commit/e533ee758c7d3cef00da08034d8b8949b0ac493a"
+      },
+      {
+        "sha": "603475b76fe518fa290330817b851608b13143ea",
+        "url": "https://api.github.com/repos/rails/rails/commits/603475b76fe518fa290330817b851608b13143ea",
+        "html_url": "https://github.com/rails/rails/commit/603475b76fe518fa290330817b851608b13143ea"
+      }
+    ]
+  },
+  {
+    "sha": "603475b76fe518fa290330817b851608b13143ea",
+    "commit": {
+      "author": {
+        "name": "yuuji.yaginuma",
+        "email": "yuuji.yaginuma@gmail.com",
+        "date": "2017-09-09T00:48:15Z"
+      },
+      "committer": {
+        "name": "yuuji.yaginuma",
+        "email": "yuuji.yaginuma@gmail.com",
+        "date": "2017-09-09T00:48:15Z"
+      },
+      "message": "Remove needless `silence_warnings`\n\nSince ff30db1, warning is not shown.",
+      "tree": {
+        "sha": "39db02abdd29fd28c23e8f9f98b7b89363771445",
+        "url": "https://api.github.com/repos/rails/rails/git/trees/39db02abdd29fd28c23e8f9f98b7b89363771445"
+      },
+      "url": "https://api.github.com/repos/rails/rails/git/commits/603475b76fe518fa290330817b851608b13143ea",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/rails/rails/commits/603475b76fe518fa290330817b851608b13143ea",
+    "html_url": "https://github.com/rails/rails/commit/603475b76fe518fa290330817b851608b13143ea",
+    "comments_url": "https://api.github.com/repos/rails/rails/commits/603475b76fe518fa290330817b851608b13143ea/comments",
+    "author": {
+      "login": "y-yagi",
+      "id": 987638,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/987638?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/y-yagi",
+      "html_url": "https://github.com/y-yagi",
+      "followers_url": "https://api.github.com/users/y-yagi/followers",
+      "following_url": "https://api.github.com/users/y-yagi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/y-yagi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/y-yagi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/y-yagi/subscriptions",
+      "organizations_url": "https://api.github.com/users/y-yagi/orgs",
+      "repos_url": "https://api.github.com/users/y-yagi/repos",
+      "events_url": "https://api.github.com/users/y-yagi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/y-yagi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "y-yagi",
+      "id": 987638,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/987638?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/y-yagi",
+      "html_url": "https://github.com/y-yagi",
+      "followers_url": "https://api.github.com/users/y-yagi/followers",
+      "following_url": "https://api.github.com/users/y-yagi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/y-yagi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/y-yagi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/y-yagi/subscriptions",
+      "organizations_url": "https://api.github.com/users/y-yagi/orgs",
+      "repos_url": "https://api.github.com/users/y-yagi/repos",
+      "events_url": "https://api.github.com/users/y-yagi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/y-yagi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e533ee758c7d3cef00da08034d8b8949b0ac493a",
+        "url": "https://api.github.com/repos/rails/rails/commits/e533ee758c7d3cef00da08034d8b8949b0ac493a",
+        "html_url": "https://github.com/rails/rails/commit/e533ee758c7d3cef00da08034d8b8949b0ac493a"
+      }
+    ]
+  }
+]

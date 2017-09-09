@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ashif\\Desktop\\InterviewApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ashif\\Desktop\\InterviewApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ashif\\Desktop\\InterviewApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_items.xml",
+        "source": "C:\\Users\\Ashif\\Desktop\\InterviewApp\\app\\src\\main\\res\\layout\\content_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ashif\\Desktop\\InterviewApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Ashif\\Desktop\\InterviewApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    }
+]

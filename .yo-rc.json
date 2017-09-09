@@ -1,0 +1,9 @@
+{
+  "generator-aac-mvvm": {
+    "promptValues": {
+      "name": "InterviewApp",
+      "targetSdk": 26,
+      "minSdk": 19
+    }
+  }
+}
